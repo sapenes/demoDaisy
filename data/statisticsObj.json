@@ -1,0 +1,107 @@
+{
+    "t_natio": [
+        {
+            "id": "TR",
+            "text": "T.C.",
+            "count": "306"
+        },
+        {
+            "id": "EG",
+            "text": "Mısırlı",
+            "count": "27"
+        },
+        {
+            "id": "SY",
+            "text": "Suriyeli",
+            "count": "11"
+        },
+        {
+            "id": "PN",
+            "text": "Britanyalı",
+            "count": "9"
+        },
+        {
+            "id": "US",
+            "text": "ABD li",
+            "count": "8"
+        },
+        {
+            "id": "99",
+            "text": "Diğer",
+            "count": "29"
+        }
+    ],
+    "t_gender": [
+        {
+            "id": "1",
+            "text": "Erkek",
+            "count": "239"
+        },
+        {
+            "id": "2",
+            "text": "Kadın",
+            "count": "233"
+        }
+    ],
+    "t_education": [
+        {
+            "id": "99",
+            "text": "Veri Yok",
+            "count": "471"
+        },
+        {
+            "id": "10",
+            "text": "İlkokul",
+            "count": "1"
+        }
+    ],
+    "t_age": [
+        {
+            "id": "31-35",
+            "text": "31-35 Yaş Arası",
+            "count": "110"
+        },
+        {
+            "id": "36-40",
+            "text": "36-40 Yaş Arası",
+            "count": "104"
+        },
+        {
+            "id": "41-45",
+            "text": "41-45 Yaş Arası",
+            "count": "81"
+        },
+        {
+            "id": "46-50",
+            "text": "46-50 Yaş Arası",
+            "count": "55"
+        },
+        {
+            "id": "56-999",
+            "text": "56`dan Büyük",
+            "count": "41"
+        },
+        {
+            "id": "26-30",
+            "text": "26-30 Yaş Arası",
+            "count": "38"
+        },
+        {
+            "id": "51-55",
+            "text": "51-55 Yaş Arası",
+            "count": "35"
+        },
+        {
+            "id": "0-25",
+            "text": "25`den Küçük",
+            "count": "8"
+        }
+    ],
+    "t_seniority": [
+        {
+            "id": "0-5",
+            "text": "5`den Küçük",
+            "count": "3"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "operation": "completed",
+        "count": 0
+    },
+    {
+        "operation": "incomplete",
+        "count": 0
+    },
+    {
+        "operation": "inprocess",
+        "count": 0
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "id": "50000050",
+        "text": "Yönetim Kurulu",
+        "parid": "00000000"
+    },
+    {
+        "id": "50000055",
+        "text": "Genel Müdürlük",
+        "parid": "50000050"
+    },
+    {
+        "id": "50000067",
+        "text": "Mali ve İdari İşler GMY",
+        "parid": "50000055"
+    },
+    {
+        "id": "50000057",
+        "text": "Mali İşler Direktörlüğü",
+        "parid": "50000067"
+    },
+    {
+        "id": "50000071",
+        "text": "Muhasebe Müdürlüğü",
+        "parid": "50000057"
+    },
+    {
+        "id": "50000072",
+        "text": "Finans Müdürlüğü",
+        "parid": "50000057"
+    },
+    {
+        "id": "50000058",
+        "text": "İnsan Kaynakları Direktörlüğü",
+        "parid": "50000067"
+    },
+    {
+        "id": "50000073",
+        "text": "İnsan Kaynakları Müdürlüğü",
+        "parid": "50000058"
+    },
+    {
+        "id": "50000074",
+        "text": "Kariyer Planlama ve Eğitim Müdürlüğü",
+        "parid": "50000058"
+    },
+    {
+        "id": "50000068",
+        "text": "Üretim ve Pazarlama GMY",
+        "parid": "50000055"
+    },
+    {
+        "id": "50000059",
+        "text": "Üretim Direktörlüğü",
+        "parid": "50000068"
+    },
+    {
+        "id": "50000153",
+        "text": "Lojistik Müdürlüğü",
+        "parid": "50000059"
+    },
+    {
+        "id": "50000154",
+        "text": "Üretim Müdürlüğü",
+        "parid": "50000059"
+    },
+    {
+        "id": "50000060",
+        "text": "Pazarlama Direktörlüğü",
+        "parid": "50000068"
+    },
+    {
+        "id": "50000407",
+        "text": "Pazarlama ve Satış Müdürl",
+        "parid": "50000060"
+    },
+    {
+        "id": "50000408",
+        "text": "Satınalma Müdürlüğü",
+        "parid": "50000060"
+    },
+    {
+        "id": "50000069",
+        "text": "Mühendislik ve Ar-Ge Dire",
+        "parid": "50000068"
+    },
+    {
+        "id": "50000444",
+        "text": "Yazılım Müdürlüğü",
+        "parid": "50000069"
+    },
+    {
+        "id": "50000445",
+        "text": "Sistem Müdürlüğü",
+        "parid": "50000069"
+    },
+    {
+        "id": "50000446",
+        "text": "Arge Müdürlüğü",
+        "parid": "50000069"
+    }
+]
